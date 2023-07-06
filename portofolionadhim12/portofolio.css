@@ -1,0 +1,38 @@
+.jumbotron {
+	background-color: #e2edff;
+	padding-top: 5rem;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.akhir {
+	background-color: #e2edff;
+}
+
+.jasa .container-jasa {
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.jasa .container-jasa .col-jasa h2 {
+	color: black;
+}
+
+.jasa .container-jasa .col-jasa h2 span {
+	color: blueviolet;
+}
+
+.jasa .container-jasa .row-jasa .col-md-4-jasa a .btnnadhim {
+	margin-top: 3rem;
+	display: inline-block;
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+	color: blue;
+	background-color: blurgb(43, 226, 43);
+	border-radius: 50%;
+	cursor: pointer;
+	border: none;
+}
